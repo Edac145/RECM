@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project>
+  <executable name="dist/default/production/Recm_Test_MainCore.X.production.elf">
+    <memory name="data">
+      <units>bytes</units>
+      <length>49152</length>
+      <used>92</used>
+      <free>49060</free>
+    </memory>
+    <memory name="program">
+      <units>bytes</units>
+      <length>539520</length>
+      <used>27930</used>
+      <free>511590</free>
+    </memory>
+  </executable>
+</project>
